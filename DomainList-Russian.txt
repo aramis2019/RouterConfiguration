@@ -11,10 +11,13 @@ detlektor.com
 disk.yandex.ru
 epd47.ru
 eruditor.link
+getcourse.ru
+getfusion.ru
 gosuslugi.ru
 graphql.kinopoisk.ru
 hd.kinopoisk.ru
 itik.pro
+kinescopecdn.net
 kino.pub
 kinopoisk.ru
 kinopoisk-ru.clstorage.net
@@ -49,6 +52,7 @@ smotrim.ru
 sp.yandex.ru
 static-mon.yandex.net
 tbank.ru
+tech-borodach.pro
 timeweb.cloud
 tracking.ott.yandex.net
 tracking.ott.yandex.net
