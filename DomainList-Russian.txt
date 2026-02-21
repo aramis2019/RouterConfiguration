@@ -15,6 +15,7 @@ getcourse.ru
 getfusion.ru
 gosuslugi.ru
 graphql.kinopoisk.ru
+gazprombank.ru
 hd.kinopoisk.ru
 itik.pro
 kinescopecdn.net
@@ -44,6 +45,7 @@ pesc.ru
 plus.kinopoisk.ru
 pornolab.net
 ptenergo.ru
+pga.gazprombank.ru
 rks-energo.ru
 sberbank.ru
 singularity-app.com
