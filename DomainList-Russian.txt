@@ -4,6 +4,9 @@ avatars.mds.yandex.net
 browser-updater.yandex.net
 bspb.ru
 cdnflow.ru
+cdnapi.smotrim.ru
+cdn-st2.smotrim.ru
+cdnvideo.ru
 clstorage.net
 csp.yandex.net
 csp.yandex.net
@@ -17,6 +20,7 @@ gosuslugi.ru
 graphql.kinopoisk.ru
 gazprombank.ru
 hd.kinopoisk.ru
+hybrid.ai
 itik.pro
 kinescopecdn.net
 kino.pub
@@ -43,10 +47,13 @@ passport.yandex.ru
 payment-widget.plus.kinopoisk.ru
 pesc.ru
 plus.kinopoisk.ru
+player.smotrim.ru
 pornolab.net
 ptenergo.ru
 pga.gazprombank.ru
 rks-energo.ru
+rtr-vesti.ru
+rumstat.cdnvideo.ru
 sberbank.ru
 singularity-app.com
 skillberry.ru
@@ -56,12 +63,14 @@ static-mon.yandex.net
 tbank.ru
 tech-borodach.pro
 timeweb.cloud
+tns-counter.ru
 tracking.ott.yandex.net
 tracking.ott.yandex.net
 video.detlektor.com
 vk.com
 vk.ru
 vkvideo.ru
+vstat.rtr-vesti.ru
 widgets.kinopoisk.ru
 www.kinopoisk.ru
 ya.ru
