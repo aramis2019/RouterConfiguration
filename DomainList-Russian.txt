@@ -41,7 +41,6 @@ lpmc.ru
 lurax.ru
 mc.yandex.ru
 mds.yandex.net
-mds.yandex.net
 nalog.ru
 npfsb.ru
 okko.tv
@@ -65,6 +64,7 @@ skillberry.ru
 smotrim.ru
 sp.yandex.ru
 static-mon.yandex.net
+st.hybrid.ai
 tbank.ru
 tech-borodach.pro
 timeweb.cloud
