@@ -1,11 +1,16 @@
 2ip.ru
 adfox.ru
+api.smotrim.ru
 avatars.mds.yandex.net
 browser-updater.yandex.net
 bspb.ru
 cdnflow.ru
 cdnapi.smotrim.ru
+cdn-st1.smotrim.ru
 cdn-st2.smotrim.ru
+cdn-st3.smotrim.ru
+cdn-st4.smotrim.ru
+cdn-v.smotrim.ru
 cdnvideo.ru
 clstorage.net
 csp.yandex.net
@@ -66,6 +71,7 @@ timeweb.cloud
 tns-counter.ru
 tracking.ott.yandex.net
 tracking.ott.yandex.net
+vesti.ru
 video.detlektor.com
 vk.com
 vk.ru
@@ -73,6 +79,7 @@ vkvideo.ru
 vstat.rtr-vesti.ru
 widgets.kinopoisk.ru
 www.kinopoisk.ru
+www.vesti.ru
 ya.ru
 yandex.net
 yandex.ru
