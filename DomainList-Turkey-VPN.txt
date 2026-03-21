@@ -1,5 +1,6 @@
 accounts.youtube.com
 aistudio.google.com
+alkalimining-pa.googleapis.com
 apis.google.com
 clients6.google.com
 cloud.google.com
@@ -9,6 +10,7 @@ docs.google.com
 drive.google.com
 fonts.gstatic.com
 gemini.google.com
+generativelanguage.googleapis.com
 ggpht.com
 google.com
 googleusercontent.com
@@ -22,6 +24,7 @@ notebooklm.google.com
 ogs.google.com
 one.google.com
 play.google.com
+proactivebackend-pa.googleapis.com
 returnyoutubedislikeapi.com
 ssl.gstatic.com 
 studio.youtube.com
