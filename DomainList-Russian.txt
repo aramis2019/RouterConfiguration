@@ -66,6 +66,7 @@ rt.ru
 rumstat.cdnvideo.ru
 sberbank.ru
 serving-sys.ru
+sentry.iptv.rt.ru
 singularity-app.com
 skillberry.ru
 smotrim.ru
