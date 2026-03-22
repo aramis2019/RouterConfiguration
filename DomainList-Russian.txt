@@ -27,6 +27,7 @@ gazprombank.ru
 hd.kinopoisk.ru
 hybrid.ai
 itik.pro
+iptv.rt.ru
 kinescopecdn.net
 kino.pub
 kinopoisk.ru
@@ -41,7 +42,9 @@ lpmc.ru
 lurax.ru
 mc.yandex.ru
 mds.yandex.net
+mail.ru
 nalog.ru
+nastart.ru
 npfsb.ru
 okko.tv
 otus.ru
@@ -53,12 +56,16 @@ pesc.ru
 plus.kinopoisk.ru
 player.smotrim.ru
 pornolab.net
+privacy-cs.mail.ru
 ptenergo.ru
 pga.gazprombank.ru
+restream-media.net
 rks-energo.ru
 rtr-vesti.ru
+rt.ru
 rumstat.cdnvideo.ru
 sberbank.ru
+serving-sys.ru
 singularity-app.com
 skillberry.ru
 smotrim.ru
@@ -68,9 +75,11 @@ st.hybrid.ai
 tbank.ru
 tech-borodach.pro
 timeweb.cloud
+top-fwz1.mail.ru
 tns-counter.ru
 tracking.ott.yandex.net
 tracking.ott.yandex.net
+uaas.yandex.ru
 vesti.ru
 video.detlektor.com
 vk.com
