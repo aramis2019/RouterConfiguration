@@ -4,6 +4,7 @@ api.smotrim.ru
 avatars.mds.yandex.net
 browser-updater.yandex.net
 bspb.ru
+bo.nalog.gov.ru
 cdnflow.ru
 cdnapi.smotrim.ru
 cdn-st1.smotrim.ru
@@ -25,6 +26,7 @@ getfusion.ru
 gosuslugi.ru
 graphql.kinopoisk.ru
 gazprombank.ru
+gov.ru
 hd.kinopoisk.ru
 hybrid.ai
 itik.pro
@@ -45,6 +47,7 @@ mc.yandex.ru
 mds.yandex.net
 mail.ru
 nalog.ru
+nalog.gov.ru
 nastart.ru
 npfsb.ru
 okko.tv
