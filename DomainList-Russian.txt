@@ -35,7 +35,6 @@ kinescopecdn.net
 kino.pub
 kinopoisk.ru
 kinopoisk-ru.clstorage.net
-kinopoisk-ru.clstorage.net
 kvartplata.info
 litres.ru
 lk.npfsb.ru
@@ -56,6 +55,7 @@ ozon.ru
 olwood.online
 passport.yandex.ru
 payment-widget.plus.kinopoisk.ru
+pb.nalog.ru
 pesc.ru
 plus.kinopoisk.ru
 player.smotrim.ru
