@@ -18,6 +18,7 @@ csp.yandex.net
 csp.yandex.net
 detlektor.com
 disk.yandex.ru
+dom.gosuslugi.ru
 epd47.ru
 eruditor.link
 esia.gosuslugi.ru
