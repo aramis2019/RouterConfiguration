@@ -1,6 +1,7 @@
 2ip.ru
 adfox.ru
 api.smotrim.ru
+api.cian.ru
 avatars.mds.yandex.net
 browser-updater.yandex.net
 bspb.ru
@@ -16,6 +17,7 @@ cdnvideo.ru
 clstorage.net
 csp.yandex.net
 csp.yandex.net
+cian.ru
 detlektor.com
 disk.yandex.ru
 dom.gosuslugi.ru
@@ -32,6 +34,7 @@ hd.kinopoisk.ru
 hybrid.ai
 itik.pro
 iptv.rt.ru
+images.cdn-cian.ru
 kinescopecdn.net
 kino.pub
 kinopoisk.ru
@@ -77,7 +80,9 @@ skillberry.ru
 smotrim.ru
 sp.yandex.ru
 static-mon.yandex.net
+static.cdn-cian.ru
 st.hybrid.ai
+sopr-api.cian.ru
 tbank.ru
 tech-borodach.pro
 timeweb.cloud
@@ -97,6 +102,7 @@ wink.ru
 www.gosuslugi.ru
 www.kinopoisk.ru
 www.vesti.ru
+www.cian.ru
 ya.ru
 yandex.net
 yandex.ru
