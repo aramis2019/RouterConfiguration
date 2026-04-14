@@ -2,10 +2,13 @@
 adfox.ru
 api.smotrim.ru
 api.cian.ru
+api.bookmate.ru
 avatars.mds.yandex.net
 browser-updater.yandex.net
 bspb.ru
 bo.nalog.gov.ru
+books.yandex.ru
+bookmate.ru
 cdnflow.ru
 cdnapi.smotrim.ru
 cdn-st1.smotrim.ru
@@ -16,6 +19,7 @@ cdn-v.smotrim.ru
 cdnvideo.ru
 clstorage.net
 csp.yandex.net
+clck.yandex.ru
 cian.ru
 detlektor.com
 disk.yandex.ru
