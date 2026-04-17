@@ -3,6 +3,7 @@ adfox.ru
 api.smotrim.ru
 api.cian.ru
 api.bookmate.ru
+api.litres.ru
 avatars.mds.yandex.net
 browser-updater.yandex.net
 bspb.ru
@@ -10,6 +11,7 @@ bo.nalog.gov.ru
 books.yandex.ru
 bookmate.ru
 cdnflow.ru
+cdn.litres.ru
 cdnapi.smotrim.ru
 cdn-st1.smotrim.ru
 cdn-st2.smotrim.ru
@@ -106,6 +108,7 @@ www.gosuslugi.ru
 www.kinopoisk.ru
 www.vesti.ru
 www.cian.ru
+www.litres.ru
 ya.ru
 yandex.net
 yandex.ru
