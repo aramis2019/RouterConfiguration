@@ -10,6 +10,7 @@ bspb.ru
 bo.nalog.gov.ru
 books.yandex.ru
 bookmate.ru
+bs.serving-sys.ru
 cdnflow.ru
 cdn.litres.ru
 cdnapi.smotrim.ru
@@ -40,6 +41,7 @@ hybrid.ai
 itik.pro
 iptv.rt.ru
 images.cdn-cian.ru
+images.iptv.rt.ru
 kinescopecdn.net
 kino.pub
 kinopoisk.ru
@@ -80,6 +82,7 @@ rumstat.cdnvideo.ru
 sberbank.ru
 serving-sys.ru
 sentry.iptv.rt.ru
+serving-sys.ru
 singularity-app.com
 skillberry.ru
 smotrim.ru
