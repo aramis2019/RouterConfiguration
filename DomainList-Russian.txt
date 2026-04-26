@@ -30,6 +30,7 @@ dom.gosuslugi.ru
 epd47.ru
 eruditor.link
 esia.gosuslugi.ru
+eye.targetads.io
 getcourse.ru
 getfusion.ru
 gosuslugi.ru
@@ -56,6 +57,8 @@ lurax.ru
 mc.yandex.ru
 mds.yandex.net
 mail.ru
+mediavitrina.ru
+media.mediavitrina.ru
 nalog.ru
 nalog.gov.ru
 nastart.ru
@@ -91,8 +94,11 @@ static-mon.yandex.net
 static.cdn-cian.ru
 st.hybrid.ai
 sopr-api.cian.ru
+sz-lb-fa.restream-media.net
+targetads.io
 tbank.ru
 tech-borodach.pro
+telecomid.ru
 timeweb.cloud
 top-fwz1.mail.ru
 tns-counter.ru
@@ -101,6 +107,7 @@ tracking.ott.yandex.net
 uaas.yandex.ru
 vesti.ru
 video.detlektor.com
+vitv.telecomid.ru
 vk.com
 vk.ru
 vkvideo.ru
@@ -112,6 +119,7 @@ www.kinopoisk.ru
 www.vesti.ru
 www.cian.ru
 www.litres.ru
+www.tns-counter.ru
 ya.ru
 yandex.net
 yandex.ru
