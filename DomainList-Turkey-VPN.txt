@@ -13,6 +13,7 @@ duolingo.com
 duolingo-leaderboards-prod.duolingo.com
 duolingo-achievements-prod.duolingo.com
 d35aaqx5ub95lt.cloudfront.net
+excess.duolingo.com
 fonts.gstatic.com
 gemini.google.com
 generativelanguage.googleapis.com
@@ -20,6 +21,7 @@ ggpht.com
 google.com
 googleusercontent.com
 googlevideo.com
+goals-api.duolingo.com
 gstatic.com
 jnn-pa.googleapis.com
 mail.google.com
@@ -27,6 +29,7 @@ myaccount.google.com
 notebooklm.google.com
 ogs.google.com
 one.google.com
+o4506106988134400.ingest.sentry.io
 pagead2.googlesyndication.com
 play.google.com
 proactivebackend-pa.googleapis.com
