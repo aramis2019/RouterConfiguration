@@ -1,4 +1,5 @@
 accounts.youtube.com
+accounts.google.com
 aistudio.google.com
 alkalimining-pa.googleapis.com
 apis.google.com
@@ -8,6 +9,10 @@ contacts.google.com
 denizbank.com
 docs.google.com
 drive.google.com
+duolingo.com
+duolingo-leaderboards-prod.duolingo.com
+duolingo-achievements-prod.duolingo.com
+d35aaqx5ub95lt.cloudfront.net
 fonts.gstatic.com
 gemini.google.com
 generativelanguage.googleapis.com
@@ -18,11 +23,11 @@ googlevideo.com
 gstatic.com
 jnn-pa.googleapis.com
 mail.google.com
-mail.google.com
 myaccount.google.com
 notebooklm.google.com
 ogs.google.com
 one.google.com
+pagead2.googlesyndication.com
 play.google.com
 proactivebackend-pa.googleapis.com
 returnyoutubedislikeapi.com
@@ -30,6 +35,8 @@ ssl.gstatic.com
 studio.youtube.com
 tpc.googlesyndication.com
 wide-youtube.l.google.com
+www.google.com
+www.duolingo.com
 www.google.com
 youtu.be
 youtube.com
@@ -45,3 +52,4 @@ ytimg.com
 ytimg.l.google.com
 yting.com
 yt-video-upload.l.google.com
+zombie.duolingo.com
