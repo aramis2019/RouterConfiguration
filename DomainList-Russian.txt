@@ -38,6 +38,7 @@ gosuslugi.ru
 graphql.kinopoisk.ru
 gazprombank.ru
 gov.ru
+gost.ru
 hd.kinopoisk.ru
 hybrid.ai
 fgisgost.ru
