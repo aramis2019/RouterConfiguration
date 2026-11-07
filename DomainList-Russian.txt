@@ -40,6 +40,8 @@ gazprombank.ru
 gov.ru
 hd.kinopoisk.ru
 hybrid.ai
+fgisgost.ru
+fgis.gost.ru
 itik.pro
 iptv.rt.ru
 interzet.dom.ru
@@ -76,6 +78,7 @@ pesc.ru
 plus.kinopoisk.ru
 player.smotrim.ru
 pornolab.net
+poverka.fsa.gov.ru
 privacy-cs.mail.ru
 ptenergo.ru
 pga.gazprombank.ru
