@@ -43,6 +43,7 @@ hd.kinopoisk.ru
 hybrid.ai
 fgisgost.ru
 fgis.gost.ru
+fsa.gov.ru
 itik.pro
 iptv.rt.ru
 interzet.dom.ru
